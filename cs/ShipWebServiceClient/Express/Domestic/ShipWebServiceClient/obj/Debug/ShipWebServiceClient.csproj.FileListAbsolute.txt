@@ -1,0 +1,17 @@
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v21_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.exe.config
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v21_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.exe
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v21_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.pdb
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v21_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.exe
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v21_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.pdb
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.exe.config
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.exe
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.pdb
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.exe
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.pdb
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\RCuyarCo\Downloads\ShipService_v26_cs (2)\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.exe.config
+C:\Users\RCuyarCo\Downloads\ShipService_v26_cs (2)\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.exe
+C:\Users\RCuyarCo\Downloads\ShipService_v26_cs (2)\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.csprojAssemblyReference.cache
+C:\Users\RCuyarCo\Downloads\ShipService_v26_cs (2)\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\RCuyarCo\Downloads\ShipService_v26_cs (2)\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.exe
+C:\Users\RCuyarCo\Downloads\ShipService_v26_cs (2)\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.pdb

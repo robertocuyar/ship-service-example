@@ -1,0 +1,1635 @@
+-------------25-Apr-18 7:40:01 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v23">
+    <ParentCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v23">
+    <AccountNumber>610024947</AccountNumber>
+    <MeterNumber>4053484</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v23">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v23">
+    <ServiceId>ship</ServiceId>
+    <Major>23</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v23">
+    <ShipTimestamp>2018-04-25T19:40:01.112301+05:30</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>610024947</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------27-Apr-18 12:29:46 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v23">
+    <ParentCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v23">
+    <AccountNumber>610024947</AccountNumber>
+    <MeterNumber>4053484</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v23">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v23">
+    <ServiceId>ship</ServiceId>
+    <Major>23</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v23">
+    <ShipTimestamp>2018-04-27T12:29:45.1948955+05:30</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>610024947</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------27-Apr-18 12:30:14 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v23">
+    <ParentCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v23">
+    <AccountNumber>610024947</AccountNumber>
+    <MeterNumber>4053484</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v23">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v23">
+    <ServiceId>ship</ServiceId>
+    <Major>23</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v23">
+    <ShipTimestamp>2018-04-27T12:30:14.2474194+05:30</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>610024947</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------27-Apr-18 12:30:38 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v23">
+    <ParentCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v23">
+    <AccountNumber>610024947</AccountNumber>
+    <MeterNumber>4053484</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v23">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v23">
+    <ServiceId>ship</ServiceId>
+    <Major>23</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v23">
+    <ShipTimestamp>2018-04-27T12:30:37.8810135+05:30</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>610024947</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------27-Apr-18 1:16:04 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v23">
+    <ParentCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v23">
+    <AccountNumber>610024947</AccountNumber>
+    <MeterNumber>4053484</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v23">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v23">
+    <ServiceId>ship</ServiceId>
+    <Major>23</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v23">
+    <ShipTimestamp>2018-04-27T13:16:02.7289047+05:30</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>610024947</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------27-Apr-18 3:05:58 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v23">
+    <ParentCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v23">
+    <AccountNumber>610024947</AccountNumber>
+    <MeterNumber>4053484</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v23">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v23">
+    <ServiceId>ship</ServiceId>
+    <Major>23</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v23">
+    <ShipTimestamp>2018-04-27T15:05:57.7070175+05:30</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>610024947</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------27-Apr-18 3:12:57 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v23">
+    <ParentCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v23">
+    <AccountNumber>610024947</AccountNumber>
+    <MeterNumber>4053484</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v23">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v23">
+    <ServiceId>ship</ServiceId>
+    <Major>23</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v23">
+    <ShipTimestamp>2018-04-27T15:12:57.2116563+05:30</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>610024947</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------27-Apr-18 3:13:27 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v23">
+    <ParentCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v23">
+    <AccountNumber>610024947</AccountNumber>
+    <MeterNumber>4053484</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v23">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v23">
+    <ServiceId>ship</ServiceId>
+    <Major>23</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v23">
+    <ShipTimestamp>2018-04-27T15:13:25.6731301+05:30</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>610024947</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------27-Apr-18 3:14:35 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v23">
+    <ParentCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v23">
+    <AccountNumber>610024947</AccountNumber>
+    <MeterNumber>4053484</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v23">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v23">
+    <ServiceId>ship</ServiceId>
+    <Major>23</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v23">
+    <ShipTimestamp>2018-04-27T15:14:34.979561+05:30</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>610024947</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------7/8/2019 2:35:19 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v25">
+    <ParentCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v25">
+    <AccountNumber>610024947</AccountNumber>
+    <MeterNumber>4053484</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v25">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v25">
+    <ServiceId>ship</ServiceId>
+    <Major>25</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v25">
+    <ShipTimestamp>2019-07-08T14:35:18.2703715+05:30</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>610024947</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------6/10/2020 5:04:25 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v26">
+    <ParentCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>daBB9GNlTPUizhjI</Key>
+      <Password>072nNZ0WUi7i2sP0ICddH7PQh</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v26">
+    <AccountNumber>214877600</AccountNumber>
+    <MeterNumber>114525054</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v26">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v26">
+    <ServiceId>ship</ServiceId>
+    <Major>26</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v26">
+    <ShipTimestamp>2020-06-10T17:04:23.7838609+05:30</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>214877600</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------6/16/2021 1:26:42 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v23">
+    <ParentCredential>
+      <Key>XXX</Key>
+      <Password>XXX</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>XXX</Key>
+      <Password>XXX</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v23">
+    <AccountNumber>XXX</AccountNumber>
+    <MeterNumber>XXX</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v23">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v23">
+    <ServiceId>ship</ServiceId>
+    <Major>23</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v23">
+    <ShipTimestamp>2021-06-16T13:26:41.8503835-07:00</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>XXX</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------6/16/2021 2:19:15 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v23">
+    <ParentCredential>
+      <Key>XXX</Key>
+      <Password>XXX</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>XXX</Key>
+      <Password>XXX</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v23">
+    <AccountNumber>XXX</AccountNumber>
+    <MeterNumber>XXX</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v23">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v23">
+    <ServiceId>ship</ServiceId>
+    <Major>23</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v23">
+    <ShipTimestamp>2021-06-16T14:19:15.7290614-07:00</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>XXX</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------6/16/2021 3:00:27 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v26">
+    <ParentCredential>
+      <Key>XXX</Key>
+      <Password>XXX</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>XXX</Key>
+      <Password>XXX</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v26">
+    <AccountNumber>XXX</AccountNumber>
+    <MeterNumber>XXX</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v26">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v26">
+    <ServiceId>ship</ServiceId>
+    <Major>26</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v26">
+    <ShipTimestamp>2021-06-16T15:00:27.2433075-07:00</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>XXX</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+
+-------------6/16/2021 3:01:09 PM-------------
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessShipmentRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebAuthenticationDetail xmlns="http://fedex.com/ws/ship/v23">
+    <ParentCredential>
+      <Key>XXX</Key>
+      <Password>XXX</Password>
+    </ParentCredential>
+    <UserCredential>
+      <Key>XXX</Key>
+      <Password>XXX</Password>
+    </UserCredential>
+  </WebAuthenticationDetail>
+  <ClientDetail xmlns="http://fedex.com/ws/ship/v23">
+    <AccountNumber>XXX</AccountNumber>
+    <MeterNumber>XXX</MeterNumber>
+  </ClientDetail>
+  <TransactionDetail xmlns="http://fedex.com/ws/ship/v23">
+    <CustomerTransactionId>***Express Domestic Ship Request using VC#***</CustomerTransactionId>
+  </TransactionDetail>
+  <Version xmlns="http://fedex.com/ws/ship/v23">
+    <ServiceId>ship</ServiceId>
+    <Major>23</Major>
+    <Intermediate>0</Intermediate>
+    <Minor>0</Minor>
+  </Version>
+  <RequestedShipment xmlns="http://fedex.com/ws/ship/v23">
+    <ShipTimestamp>2021-06-16T15:01:09.0044881-07:00</ShipTimestamp>
+    <DropoffType>REGULAR_PICKUP</DropoffType>
+    <ServiceType>PRIORITY_OVERNIGHT</ServiceType>
+    <PackagingType>YOUR_PACKAGING</PackagingType>
+    <TotalWeight>
+      <Units>LB</Units>
+      <Value>50.0</Value>
+    </TotalWeight>
+    <Shipper>
+      <Contact>
+        <PersonName>Sender Name</PersonName>
+        <CompanyName>Sender Company Name</CompanyName>
+        <PhoneNumber>0805522713</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Austin</City>
+        <StateOrProvinceCode>TX</StateOrProvinceCode>
+        <PostalCode>73301</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Shipper>
+    <Recipient>
+      <Contact>
+        <PersonName>Recipient Name</PersonName>
+        <CompanyName>Recipient Company Name</CompanyName>
+        <PhoneNumber>9012637906</PhoneNumber>
+      </Contact>
+      <Address>
+        <StreetLines>Address Line 1</StreetLines>
+        <City>Windsor</City>
+        <StateOrProvinceCode>CT</StateOrProvinceCode>
+        <PostalCode>06006</PostalCode>
+        <CountryCode>US</CountryCode>
+      </Address>
+    </Recipient>
+    <ShippingChargesPayment>
+      <PaymentType>SENDER</PaymentType>
+      <Payor>
+        <ResponsibleParty>
+          <AccountNumber>XXX</AccountNumber>
+          <Contact />
+          <Address>
+            <CountryCode>US</CountryCode>
+          </Address>
+        </ResponsibleParty>
+      </Payor>
+    </ShippingChargesPayment>
+    <SpecialServicesRequested>
+      <SpecialServiceTypes>COD</SpecialServiceTypes>
+      <CodDetail>
+        <CodCollectionAmount>
+          <Currency>USD</Currency>
+          <Amount>250.00</Amount>
+        </CodCollectionAmount>
+        <CollectionType>GUARANTEED_FUNDS</CollectionType>
+      </CodDetail>
+    </SpecialServicesRequested>
+    <LabelSpecification>
+      <LabelFormatType>COMMON2D</LabelFormatType>
+      <ImageType>PDF</ImageType>
+      <LabelStockType>PAPER_7X4.75</LabelStockType>
+      <LabelPrintingOrientation>BOTTOM_EDGE_OF_TEXT_FIRST</LabelPrintingOrientation>
+    </LabelSpecification>
+    <PackageCount>1</PackageCount>
+    <RequestedPackageLineItems>
+      <SequenceNumber>1</SequenceNumber>
+      <Weight>
+        <Units>LB</Units>
+        <Value>50.0</Value>
+      </Weight>
+      <Dimensions>
+        <Length>12</Length>
+        <Width>13</Width>
+        <Height>14</Height>
+        <Units>IN</Units>
+      </Dimensions>
+    </RequestedPackageLineItems>
+  </RequestedShipment>
+</ProcessShipmentRequest>
+____________________________________________________
+

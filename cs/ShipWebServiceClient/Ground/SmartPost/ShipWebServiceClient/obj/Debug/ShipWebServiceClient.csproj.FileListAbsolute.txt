@@ -1,0 +1,10 @@
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v21_cs\cs\ShipWebServiceClient\Ground\SmartPost\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.exe.config
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v21_cs\cs\ShipWebServiceClient\Ground\SmartPost\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.exe
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v21_cs\cs\ShipWebServiceClient\Ground\SmartPost\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.pdb
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v21_cs\cs\ShipWebServiceClient\Ground\SmartPost\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.exe
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v21_cs\cs\ShipWebServiceClient\Ground\SmartPost\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.pdb
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v23_cs\cs\ShipWebServiceClient\Ground\SmartPost\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.exe.config
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v23_cs\cs\ShipWebServiceClient\Ground\SmartPost\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.exe
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v23_cs\cs\ShipWebServiceClient\Ground\SmartPost\ShipWebServiceClient\obj\Debug\ShipWebServiceClient.pdb
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v23_cs\cs\ShipWebServiceClient\Ground\SmartPost\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.exe
+D:\2018_SampleCode\C#_2018_Samplecode\CS_SampleCode\ShipService_v23_cs\cs\ShipWebServiceClient\Ground\SmartPost\ShipWebServiceClient\bin\Debug\ShipWebServiceClient.pdb

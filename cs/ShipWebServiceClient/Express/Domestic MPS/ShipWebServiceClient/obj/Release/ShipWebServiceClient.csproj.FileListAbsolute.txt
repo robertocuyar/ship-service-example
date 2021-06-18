@@ -1,0 +1,18 @@
+C:\Users\ai953503\Desktop\SampleCode-Details\Jul19 Sample code\C#\Ship\ShipService_v25_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\bin\Release\ShipWebServiceClient.exe.config
+C:\Users\ai953503\Desktop\SampleCode-Details\Jul19 Sample code\C#\Ship\ShipService_v25_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\bin\Release\ShipWebServiceClient.exe
+C:\Users\ai953503\Desktop\SampleCode-Details\Jul19 Sample code\C#\Ship\ShipService_v25_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\bin\Release\ShipWebServiceClient.XmlSerializers.dll
+C:\Users\ai953503\Desktop\SampleCode-Details\Jul19 Sample code\C#\Ship\ShipService_v25_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\bin\Release\ShipWebServiceClient.pdb
+C:\Users\ai953503\Desktop\SampleCode-Details\Jul19 Sample code\C#\Ship\ShipService_v25_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\obj\Release\ShipWebServiceClient.csprojAssemblyReference.cache
+C:\Users\ai953503\Desktop\SampleCode-Details\Jul19 Sample code\C#\Ship\ShipService_v25_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\obj\Release\ShipWebServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\ai953503\Desktop\SampleCode-Details\Jul19 Sample code\C#\Ship\ShipService_v25_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\obj\Release\ShipWebServiceClient.exe
+C:\Users\ai953503\Desktop\SampleCode-Details\Jul19 Sample code\C#\Ship\ShipService_v25_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\obj\Release\ShipWebServiceClient.pdb
+C:\Users\ai953503\Desktop\SampleCode-Details\Jul19 Sample code\C#\Ship\ShipService_v25_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\obj\Release\ShipWebServiceClient.XmlSerializers.dll
+D:\Jul 2020\C#\Ship\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\bin\Release\ShipWebServiceClient.exe.config
+D:\Jul 2020\C#\Ship\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\bin\Release\ShipWebServiceClient.exe
+D:\Jul 2020\C#\Ship\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\bin\Release\ShipWebServiceClient.XmlSerializers.dll
+D:\Jul 2020\C#\Ship\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\bin\Release\ShipWebServiceClient.pdb
+D:\Jul 2020\C#\Ship\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\obj\Release\ShipWebServiceClient.csprojAssemblyReference.cache
+D:\Jul 2020\C#\Ship\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\obj\Release\ShipWebServiceClient.csproj.CoreCompileInputs.cache
+D:\Jul 2020\C#\Ship\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\obj\Release\ShipWebServiceClient.exe
+D:\Jul 2020\C#\Ship\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\obj\Release\ShipWebServiceClient.pdb
+D:\Jul 2020\C#\Ship\ShipService_v26_cs\cs\ShipWebServiceClient\Express\Domestic MPS\ShipWebServiceClient\obj\Release\ShipWebServiceClient.XmlSerializers.dll
